@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    background-color: aqua;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 10%;
+    hiegth: 20%;
+
+}
+
+h1 {
+    text-shadow: 2px 1px;
+    text-color: purple;
+
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: purple;
+}
+
+p {
+    color: maroon;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#myname{
+    font-family: "courgette", cursive;
+}
